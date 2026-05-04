@@ -2,15 +2,15 @@
 
 ## Concepts
 
-* What is C#?
-* Why C#?
-* Compiled and Interpreted Languages
-* Source File and Binaries
-* .Net SDK
-* What is an IDE?
+* What is C#? 
+* Why C#? 
+* Compiled and Interpreted Languages 
+* Source File and Binaries 
+* .Net SDK 
+* What is an IDE? 
 * Compiling and Running on Visual Studio
 * Compiling and Running on Visual Studio Code
-* Compiling and Running using the Terminal
+* Compiling and Running using the Terminal 
 
 ## Basics
 
@@ -29,7 +29,7 @@ The Must-To-Known of C#, and also many others languages.
 * Methods
    * Return Type
 
-## Oriented Object Programming - OOP
+## Oriented Object Programming - OOP 
 
 * Classes
    * Access Modifiers
@@ -43,7 +43,7 @@ The Must-To-Known of C#, and also many others languages.
    * This Keyword
 * Objects
 * Instance
-* Reference
+* Value vs. Reference
 
 ## Oriented Object Programming II - OOP
 
@@ -57,3 +57,20 @@ The Four Pillars of OOP
 Inheritance vs Composition
 
 * Composition
+
+* Class Object
+* Abstract Class
+* Interfaces
+
+## Exception
+
+* Try, Catch, Finally
+* Throw
+* Using Keyword
+* Custom Exceptions
+
+## Debug
+
+* Breakpoints and Steps
+* Call Stack
+* Windows
