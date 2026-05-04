@@ -6,7 +6,7 @@
 * Why C#?
 * Compiled and Interpreted Languages
 * Source File and Binaries
-* .DOT Net SDK
+* .Net SDK
 * What is an IDE?
 * Compiling and Running on Visual Studio
 * Compiling and Running on Visual Studio Code
@@ -57,6 +57,3 @@ The Four Pillars of OOP
 Inheritance vs Composition
 
 * Composition
-
-
-#A
